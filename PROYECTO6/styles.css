@@ -1,0 +1,32 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 20px;
+}
+
+form {
+  max-width: 400px;
+  margin-top: 10px;
+}
+
+input {
+  width: 100%;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px 15px;
+  background-color: #fc9b14;
+  color: rgb(12, 6, 6);
+  border: none;
+  cursor: pointer;
+}
+
+button:hover {
+  background-color: #f29b058b;
+}
+
+#errors {
+  color: red;
+  margin-top: 10px;
+}
